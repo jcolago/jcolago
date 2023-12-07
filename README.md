@@ -20,4 +20,4 @@ I have been drawn to problem solving and puzzles since I was young and software 
 
 In my free time, I love exploring new video games or creating sessions for Dungeons and Dragons. I also enjoy a great day with my family out on lake.
 
-Currently I am currently learing C#/.NET framework and Python/Flask.
+I am currently learing C#/.NET framework and Python/Flask.
