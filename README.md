@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Software developer and all around nerd. I am applying the skill I have learned since graduating from Emerging Digital Academy to new personal projects while learning new concepts and languages.
+Software developer and all around nerd. I am applying the skills I have learned since graduating from Emerging Digital Academy to new personal projects while learning new concepts and languages.
 
 I have been drawn to problem solving and puzzles since I was young and software development l allows me to keep developing those skills and express my creative side.
 
