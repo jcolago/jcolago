@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Former Team Lead - Fargo Customer Support at Digi-Key, I recently graduated from Emerging Digital Academy, a 20 week full time full stack development bootcamp in Fargo, ND after a career as a dedicated leader and trainer with a passion for quality control and extensive experience in inventory management and diverse, cross-functional team leadership. 
+Software developer and all around nerd. I am applying the skill I have learned since graduating from Emerging Digital Academy to new personal projects while learning new concepts and languages.
 
 I have been drawn to problem solving and puzzles since I was young and software development l allows me to keep developing those skills and express my creative side.
 
 In my free time, I love exploring new video games or creating sessions for Dungeons and Dragons. I also enjoy a great day with my family out on lake.
-
-I am currently learing C#/.NET framework and Python/Flask.
